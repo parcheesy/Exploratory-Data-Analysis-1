@@ -28,14 +28,15 @@ The following are descriptions of the 9 variables in the data set:
 
 This respository contains the following:
 
-+plot1.R : script that exports a histogram of global active power
-+plot1.png : histogram of global active power
-+plot2.R : script that exports a line plot of time versus global active power
-+plot2.png : line plot of time versus global active power
-+plot3.R : script that exports a line plot of time versus energy sub metering
-+plot3.png : line plot of time versus energy sub metering
-+plot4.R : script that exports four line plots displaying various variable changes over time
-+plot4.png : four line plots displaying various variable changes over time
++ plot1.R : script that exports a histogram of global active power
++ plot1.png : histogram of global active power
++ plot2.R : script that exports a line plot of time versus global active power
++ plot2.png : line plot of time versus global active power
++ plot3.R : script that exports a line plot of time versus energy sub metering
++ plot3.png : line plot of time versus energy sub metering
++ plot4.R : script that exports four line plots displaying various variable changes over time
++ plot4.png : four line plots displaying various variable changes over time
+
 
 ## Important Notes About Script
 Each script contains code that exports specific data over the 2-day period between 2/1/2007 and 2/2/2007 from the larger data set in order to preserve memory. This takes a minute and is the cause of delays when running each script.
