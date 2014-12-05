@@ -27,6 +27,7 @@ The following are descriptions of the 9 variables in the data set:
 ### Contents of Repository
 
 This respository contains the following:
+
 +plot1.R : script that exports a histogram of global active power
 +plot1.png : histogram of global active power
 +plot2.R : script that exports a line plot of time versus global active power
